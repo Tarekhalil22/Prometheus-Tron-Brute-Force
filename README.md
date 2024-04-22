@@ -2,7 +2,7 @@
 
   <div align="center">
   <div>
-    <img  src="https://raw.githubusercontent.com/prometeytron/Prometheus-Tron-Brute-Force/logo.jfif">
+    <img  src="https://raw.githubusercontent.com/prometeytron/Prometheus-Tron-Brute-Force/main/logo.jpeg">
   </div>
   </div> 
 
