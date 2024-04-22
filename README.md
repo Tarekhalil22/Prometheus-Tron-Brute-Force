@@ -24,7 +24,7 @@
 # Prometheus Tron Brute Force
 This script is designed to automatically generate seed phrases and check balances for Tron networks. If a wallet with a non-zero balance is found, the wallet's information (address, mnemonic, private key, and balances) is logged and saved to a file named result.txt.
 
-![Preview](https://raw.githubusercontent.com/prometeytron/Prometheus-Tron-Brute-Force/preview.png)
+![Preview](https://raw.githubusercontent.com/prometeytron/Prometheus-Tron-Brute-Force/main/preview.png)
 
 # Usage
 To start the brute force process, run the tronbrut.exe
