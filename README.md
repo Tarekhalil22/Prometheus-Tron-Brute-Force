@@ -9,7 +9,6 @@
 </p>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/prometeytron/Prometheus-Tron-Brute-Force">
     <br>
   <img src="https://img.shields.io/github/stars/prometeytron/Prometheus-Tron-Brute-Force">
   <img src="https://img.shields.io/github/forks/prometeytron/Prometheus-Tron-Brute-Force">
